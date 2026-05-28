@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/new/prefix1">
+    <file alias="1.png">C:/Users/YYJSS/Desktop/last4(1)/wu_zi_qi/1.png</file>
+    <file alias="2.png">C:/Users/YYJSS/Desktop/last4(1)/wu_zi_qi/2.png</file>
+  </qresource>
+</RCC>
+

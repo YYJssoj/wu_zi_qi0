@@ -1,0 +1,2 @@
+C:/Users/YYJSS/Desktop/last4(1)/wu_zi_qi/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/c1/c1_lib_autogen/include/../EWIEGA46WW/moc_win.cpp.json
+C:/Users/YYJSS/Desktop/last4(1)/wu_zi_qi/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/c1/c1_lib_autogen/include/../EWIEGA46WW/moc_win1.cpp.json

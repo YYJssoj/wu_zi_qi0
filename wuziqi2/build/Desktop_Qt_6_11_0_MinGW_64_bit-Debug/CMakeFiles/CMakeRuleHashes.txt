@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+3e699b57841e93c43bfdca7e8260f829 CMakeFiles/wuziqi_autogen
+476a524ecb0cf837acd34310c088ae73 wuziqi_autogen/timestamp

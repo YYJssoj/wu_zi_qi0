@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "win",
+            "lineNumber": 19,
+            "object": true,
+            "qualifiedClassName": "win",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "win.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,6 @@
+C:/Users/YYJSS/Desktop/last4(1)/wu_zi_qi/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/wuziqi2/wuziqi2_lib_autogen/include/../EWIEGA46WW/moc_chessboard.cpp.json
+C:/Users/YYJSS/Desktop/last4(1)/wu_zi_qi/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/wuziqi2/wuziqi2_lib_autogen/include/../EWIEGA46WW/moc_choose.cpp.json
+C:/Users/YYJSS/Desktop/last4(1)/wu_zi_qi/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/wuziqi2/wuziqi2_lib_autogen/include/../EWIEGA46WW/moc_mainwindow.cpp.json
+C:/Users/YYJSS/Desktop/last4(1)/wu_zi_qi/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/wuziqi2/wuziqi2_lib_autogen/include/../EWIEGA46WW/moc_qiuhechos.cpp.json
+C:/Users/YYJSS/Desktop/last4(1)/wu_zi_qi/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/wuziqi2/wuziqi2_lib_autogen/include/../EWIEGA46WW/moc_setting.cpp.json
+C:/Users/YYJSS/Desktop/last4(1)/wu_zi_qi/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/wuziqi2/wuziqi2_lib_autogen/include/../EWIEGA46WW/moc_shuru.cpp.json

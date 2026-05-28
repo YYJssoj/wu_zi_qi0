@@ -1,0 +1,2 @@
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc libwuziqi2_lib.a CMakeFiles/wuziqi2_lib.dir/wuziqi2_lib_autogen/mocs_compilation.cpp.obj CMakeFiles/wuziqi2_lib.dir/mainwindow.cpp.obj CMakeFiles/wuziqi2_lib.dir/chessboard.cpp.obj CMakeFiles/wuziqi2_lib.dir/setting.cpp.obj CMakeFiles/wuziqi2_lib.dir/choose.cpp.obj CMakeFiles/wuziqi2_lib.dir/qiuhechos.cpp.obj CMakeFiles/wuziqi2_lib.dir/shuru.cpp.obj
+C:\Qt\Tools\mingw1310_64\bin\ranlib.exe libwuziqi2_lib.a

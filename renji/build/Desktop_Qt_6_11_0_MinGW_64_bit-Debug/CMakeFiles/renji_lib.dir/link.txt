@@ -1,0 +1,2 @@
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc librenji_lib.a CMakeFiles/renji_lib.dir/renji_lib_autogen/mocs_compilation.cpp.obj CMakeFiles/renji_lib.dir/chessboard2.cpp.obj CMakeFiles/renji_lib.dir/record_2.cpp.obj CMakeFiles/renji_lib.dir/demo.cpp.obj
+C:\Qt\Tools\mingw1310_64\bin\ranlib.exe librenji_lib.a

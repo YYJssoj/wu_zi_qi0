@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"renren/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "renren_lib_autogen_timestamp_deps::@5a35dc40bf6b4604262b",
+	"isGeneratorProvided" : true,
+	"name" : "renren_lib_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "renren",
+		"source" : "renren"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>record_2</class>
+ <widget class="QWidget" name="record_2">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1000</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>50</y>
+     <width>921</width>
+     <height>501</height>
+    </rect>
+   </property>
+   <attribute name="horizontalHeaderDefaultSectionSize">
+    <number>180</number>
+   </attribute>
+   <column>
+    <property name="text">
+     <string>玩家账号</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>电脑执子颜色</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>对局开始时间</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>胜负</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>对局文件名</string>
+    </property>
+   </column>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

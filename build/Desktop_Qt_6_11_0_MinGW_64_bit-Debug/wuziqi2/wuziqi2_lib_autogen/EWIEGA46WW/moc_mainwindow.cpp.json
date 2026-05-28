@@ -1,0 +1,126 @@
+{
+    "classes": [
+        {
+            "className": "MainWindow",
+            "lineNumber": 16,
+            "object": true,
+            "qualifiedClassName": "MainWindow",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "x",
+                            "type": "result"
+                        },
+                        {
+                            "name": "history",
+                            "type": "std::vector<movehistory>"
+                        }
+                    ],
+                    "index": 0,
+                    "lineNumber": 25,
+                    "name": "endding",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 1,
+                    "lineNumber": 27,
+                    "name": "yesh",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "lineNumber": 28,
+                    "name": "noh",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "lineNumber": 29,
+                    "name": "ssr",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "xx",
+                            "type": "result"
+                        },
+                        {
+                            "name": "h",
+                            "type": "std::vector<movehistory>"
+                        }
+                    ],
+                    "index": 4,
+                    "lineNumber": 30,
+                    "name": "ge",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 5,
+                    "lineNumber": 32,
+                    "name": "on_pushButton_clicked",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 6,
+                    "lineNumber": 33,
+                    "name": "onStepTimeout",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 7,
+                    "lineNumber": 34,
+                    "name": "onTotalTimeTick",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 8,
+                    "lineNumber": 35,
+                    "name": "switchTurn",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 9,
+                    "lineNumber": 36,
+                    "name": "onStepTick",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 10,
+                    "lineNumber": 37,
+                    "name": "on_renshu_clicked",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 11,
+                    "lineNumber": 39,
+                    "name": "on_qiuhe_clicked",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QMainWindow"
+                }
+            ]
+        }
+    ],
+    "inputFile": "mainwindow.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,47 @@
+{
+    "classes": [
+        {
+            "className": "setting",
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "setting",
+            "slots": [
+                {
+                    "access": "private",
+                    "index": 0,
+                    "lineNumber": 21,
+                    "name": "sett1",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 1,
+                    "lineNumber": 22,
+                    "name": "sett2",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "arguments": [
+                        {
+                            "name": "checked",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 2,
+                    "lineNumber": 23,
+                    "name": "on_pushButton_clicked",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "setting.h",
+    "outputRevision": 69
+}

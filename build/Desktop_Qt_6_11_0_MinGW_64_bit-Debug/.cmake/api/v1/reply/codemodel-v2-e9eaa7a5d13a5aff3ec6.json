@@ -1,0 +1,305 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-bbe6264454c67b03a95d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						9,
+						10,
+						11
+					]
+				},
+				{
+					"build" : "wuziqi2",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-wuziqi2-Debug-d8bdef8c7e0e93cccc8c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "wuziqi2",
+					"targetIndexes" : 
+					[
+						12,
+						13,
+						14
+					]
+				},
+				{
+					"build" : "renren",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-renren-Debug-8e0a77e1f07ae8d39dfa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "renren",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "renji",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-renji-Debug-ad039a6e0c09b5745f3a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "renji",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "c1",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-c1-Debug-1a46e3f761cf875dcb0a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "c1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "wu_zi_qi",
+					"targetIndexes" : 
+					[
+						9,
+						10,
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "wuziqi",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						12,
+						13,
+						14
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "untitled5",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "untitled3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "c1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "c1_lib::@ab5bf8237bfef4e170e5",
+					"jsonFile" : "target-c1_lib-Debug-b240312a285ad0480038.json",
+					"name" : "c1_lib",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "c1_lib_autogen::@ab5bf8237bfef4e170e5",
+					"jsonFile" : "target-c1_lib_autogen-Debug-20659aca589f87bb5934.json",
+					"name" : "c1_lib_autogen",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "c1_lib_autogen_timestamp_deps::@ab5bf8237bfef4e170e5",
+					"jsonFile" : "target-c1_lib_autogen_timestamp_deps-Debug-648577f6ade558c6e585.json",
+					"name" : "c1_lib_autogen_timestamp_deps",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "renji_lib::@2ab6aec59e07aee796f4",
+					"jsonFile" : "target-renji_lib-Debug-8756a0f7fbc873fb464b.json",
+					"name" : "renji_lib",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "renji_lib_autogen::@2ab6aec59e07aee796f4",
+					"jsonFile" : "target-renji_lib_autogen-Debug-d94d282010905632b2db.json",
+					"name" : "renji_lib_autogen",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "renji_lib_autogen_timestamp_deps::@2ab6aec59e07aee796f4",
+					"jsonFile" : "target-renji_lib_autogen_timestamp_deps-Debug-16a237541a9b21bebb53.json",
+					"name" : "renji_lib_autogen_timestamp_deps",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "renren_lib::@5a35dc40bf6b4604262b",
+					"jsonFile" : "target-renren_lib-Debug-000bdafe42ecb2dd274f.json",
+					"name" : "renren_lib",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "renren_lib_autogen::@5a35dc40bf6b4604262b",
+					"jsonFile" : "target-renren_lib_autogen-Debug-861b6bd303ecdab6f449.json",
+					"name" : "renren_lib_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "renren_lib_autogen_timestamp_deps::@5a35dc40bf6b4604262b",
+					"jsonFile" : "target-renren_lib_autogen_timestamp_deps-Debug-663f3afc83f90802d06f.json",
+					"name" : "renren_lib_autogen_timestamp_deps",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "wu_zi_qi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wu_zi_qi-Debug-627f309dca9131c89acc.json",
+					"name" : "wu_zi_qi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "wu_zi_qi_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wu_zi_qi_autogen-Debug-577021193aa1620d49e1.json",
+					"name" : "wu_zi_qi_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "wu_zi_qi_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wu_zi_qi_autogen_timestamp_deps-Debug-ac761eb6b92ba226b7d8.json",
+					"name" : "wu_zi_qi_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "wuziqi2_lib::@f9993104695bdb9f9f2d",
+					"jsonFile" : "target-wuziqi2_lib-Debug-54fa356bb7434a1fa0a6.json",
+					"name" : "wuziqi2_lib",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "wuziqi2_lib_autogen::@f9993104695bdb9f9f2d",
+					"jsonFile" : "target-wuziqi2_lib_autogen-Debug-b5a7382447068385c886.json",
+					"name" : "wuziqi2_lib_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "wuziqi2_lib_autogen_timestamp_deps::@f9993104695bdb9f9f2d",
+					"jsonFile" : "target-wuziqi2_lib_autogen_timestamp_deps-Debug-93f796b8344ebf3fa655.json",
+					"name" : "wuziqi2_lib_autogen_timestamp_deps",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/YYJSS/Desktop/last4(1)/wu_zi_qi/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/YYJSS/Desktop/last4(1)/wu_zi_qi"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

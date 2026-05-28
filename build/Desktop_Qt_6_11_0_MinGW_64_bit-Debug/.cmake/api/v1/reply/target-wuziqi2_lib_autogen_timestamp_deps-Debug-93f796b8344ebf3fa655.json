@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"wuziqi2/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "wuziqi2_lib_autogen_timestamp_deps::@f9993104695bdb9f9f2d",
+	"isGeneratorProvided" : true,
+	"name" : "wuziqi2_lib_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "wuziqi2",
+		"source" : "wuziqi2"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

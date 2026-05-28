@@ -1,0 +1,68 @@
+[
+    {
+        "classes": [
+            {
+                "className": "win",
+                "lineNumber": 19,
+                "object": true,
+                "qualifiedClassName": "win",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QWidget"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "win.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "win1",
+                "final": true,
+                "lineNumber": 15,
+                "object": true,
+                "qualifiedClassName": "win1",
+                "slots": [
+                    {
+                        "access": "private",
+                        "index": 0,
+                        "lineNumber": 25,
+                        "name": "onResetGame",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "checked",
+                                "type": "bool"
+                            }
+                        ],
+                        "index": 1,
+                        "lineNumber": 26,
+                        "name": "onColorToggled",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "index": 2,
+                        "lineNumber": 27,
+                        "name": "onUndoMove",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QWidget"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "win1.h",
+        "outputRevision": 69
+    }
+]

@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"c1/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "c1_lib_autogen_timestamp_deps::@ab5bf8237bfef4e170e5",
+	"isGeneratorProvided" : true,
+	"name" : "c1_lib_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "c1",
+		"source" : "c1"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

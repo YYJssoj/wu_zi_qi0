@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_renji_lib_FILE C:/Users/YYJSS/Desktop/wuziqi778899/wu_zi_qi/renji/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/librenji_lib.a)
+set(__QT_DEPLOY_TARGET_renji_lib_TYPE STATIC_LIBRARY)

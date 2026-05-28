@@ -1,0 +1,2 @@
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc librenren_lib.a CMakeFiles/renren_lib.dir/renren_lib_autogen/mocs_compilation.cpp.obj CMakeFiles/renren_lib.dir/chessboard3.cpp.obj CMakeFiles/renren_lib.dir/record.cpp.obj CMakeFiles/renren_lib.dir/demo.cpp.obj
+C:\Qt\Tools\mingw1310_64\bin\ranlib.exe librenren_lib.a
